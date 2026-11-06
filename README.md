@@ -2,7 +2,7 @@
 
 A mod for Spirit City: Lofi Sessions: your real screen inside the game. Un mod pour Spirit City: Lofi Sessions : votre vrai écran dans le jeu.
 
-**[Download / Télécharger](https://github.com/Demonwal51/RealScreen/releases/latest)**
+**[Download / Télécharger](https://github.com/Demonwal51/RealScreen/releases/latest)** · **[Nexus Mods](https://www.nexusmods.com/spiritcitylofisessions/mods/19)**
 
 ![The avatar's monitor showing your screen](images/screen.png)
 
