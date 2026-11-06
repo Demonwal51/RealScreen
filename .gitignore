@@ -1,0 +1,5 @@
+logs/
+*.dll
+*.exe
+*.obj
+*.lib
